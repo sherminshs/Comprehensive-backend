@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Comprehensive-backend.props" />
+</Project>
